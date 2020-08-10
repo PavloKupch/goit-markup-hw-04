@@ -143,7 +143,7 @@
         outline: 1px solid black;
 
         background-image: linear-gradient(rgba(47, 48, 58, 0.4) 0%, rgba(47, 48, 58, 0.4) 100%),
-        url(../images/Header\ img\ \(1\).jpg);
+        url(../images/header.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
@@ -214,6 +214,8 @@
 
         border-radius: 4px;
         border: 1px solid #F5F4FA;
+
+        cursor: pointer;
     }
 
     .btn:hover, btn:focus{
