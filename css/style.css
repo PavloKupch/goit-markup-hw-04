@@ -118,7 +118,7 @@
     }
     .link:hover, .link:focus,
     .logo .black:hover, .logo .black:focus,
-    .logo .white:hover, .logo .white :focus,
+    .logo .white:hover, .logo .white:focus,
     .post-link:hover, .post-link:focus,
     .tel-link:hover, .tel-link:focus
     {
@@ -129,6 +129,10 @@
         vertical-align: middle;
         margin-right: 10px;
         fill: #757575;
+    }
+
+    .contacts-icon:hover{
+        fill: var(--accent-color);
     }
 
  /* main container*/
